@@ -1,4 +1,4 @@
-//https://github.com/ThanhND-Git/bt_oop_2/
+
 // bài 1- Cho 1 mảng gồm các hình chữ nhật có chiều dài 2 cạnh khai báo như hình dưới.
 // final listShape = [
 // Square(4, 5),
